@@ -4,13 +4,8 @@
 
 [Open the Gym Management System](https://gymmanagementsystemmvc.runasp.net/)
 
-Use this public demonstration account to explore the application:
+Demo login details are not published in this repository. Message me on [LinkedIn](https://www.linkedin.com/in/mahmoudhosni2000) or [Telegram](https://t.me/MahmoudHosni0007) and I will share a demo account, or run it locally and seed your own admin (see the setup section below).
 
-- **Email:** `MahmoudHosni0007@gmail.com`
-- **Password:** `P@ssw0rd`
-- **Role:** SuperAdmin
-
-This account is shared publicly for testing. Use fictional data only; changes made by other visitors may be visible during your session.
 
 
 **GymManagementSystem** is a comprehensive **Gym Management System** designed for administrators to manage **Members, Trainers, Plans, Memberships, Sessions, and Schedules**.  
